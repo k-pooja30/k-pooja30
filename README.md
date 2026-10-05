@@ -1,16 +1,20 @@
-## Hi there 👋
+[# Hi, I'm Pooja 👋
 
-<!--
-**k-pooja30/k-pooja30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*QA Automation Engineer | Playwright | TypeScript | API Testing*
 
-Here are some ideas to get you started:
+I'm a QA engineer with 4+ years of experience in the telecom domain, based in Pune, India. I build reliable automation frameworks and test APIs and UIs end to end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- *Automation:* Playwright, TypeScript, BDD (Cucumber)
+- *API testing:* Postman, SoapUI
+- *Other:* SQL, JIRA, GitHub Actions, Git
+- *Certification:* ISTQB Foundation Level (v4.0)
+
+## 📂 Featured projects
+- [playwright-ts-framework]([link]): UI automation with Page Object Model and CI reports
+- [api-testing-suite]([link]): Postman + Playwright API tests with schema validation
+- [qa-test-documentation]([link]): test plan, test cases, and bug report templates
+
+## 📫 Connect
+- LinkedIn: [[your link](https://www.linkedin.com/in/pooja-khandagale-2b78ab269?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+- Email: [khandagalepooja112@gmail.com]]
